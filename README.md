@@ -37,4 +37,7 @@ Sign in to the teacher portal. Add each student once; the system generates a PIN
 
 ## Protect student information
 
-This is a starter app for a local XAMPP setup, **not a production-ready school information system**. Keep it on a trusted school network and do not expose XAMPP to the internet. Before using real student records, arrange HTTPS, backups, restricted server and database access, a school-approved privacy policy, and security review. Keep database credentials private, never share student details or PINs in chat, and securely deliver PINs to students. The app stores student and teacher PINs/passwords as password hashes and uses prepared database statements; student lookup and teacher login are temporarily locked after repeated failed attempts.
+This is a starter app for a local XAMPP setup, **not a production-ready school information system**. Keep it on a trusted school network and do not expose XAMPP to the internet. Before using real student records, arrange HTTPS, backups, restricted server and database access, a school-approved privacy policy, and security review. Keep database credentials private, never share student details or PINs in chat, and securely deliver PINs to students. The app stores student and teacher PINs/passwords as password hashes and uses prepared database statements; student lookup and teacher login are temporarily locked after repeated failed attempts
+## Preview
+
+![CEO Campus Result Checker](preview.png).

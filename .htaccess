@@ -1,0 +1,5 @@
+Options -Indexes
+
+<FilesMatch "^(app\.php|config\.php|database\.sql|create_admin\.php|demo_results\.php)$">
+    Require all denied
+</FilesMatch>
